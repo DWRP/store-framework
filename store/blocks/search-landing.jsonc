@@ -13,14 +13,14 @@
     },
     "search-result-layout.customQuery":{
         "props": {
+            "queryField":"Blue Top Retro Camera",
             "querySchema": {
                 "skusFilter": "ALL_AVAILABLE",
                 "simulationBehavior": "default",
                 "orderByField": "OrderByReleaseDateDESC",
                 "hideUnavailableItems": true,
                 "maxItemsPerPage":8
-            },
-            "queryField":"Blue Top Retro Camera"
+            }
         }
     }
 }
